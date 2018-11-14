@@ -1,0 +1,6 @@
+C:\Users\DELL CORE i5\source\repos\Arbol 2\Arbol 2\bin\Debug\Arbol 2.exe.config
+C:\Users\DELL CORE i5\source\repos\Arbol 2\Arbol 2\bin\Debug\Arbol 2.exe
+C:\Users\DELL CORE i5\source\repos\Arbol 2\Arbol 2\bin\Debug\Arbol 2.pdb
+C:\Users\DELL CORE i5\source\repos\Arbol 2\Arbol 2\obj\Debug\Arbol 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\Arbol 2\Arbol 2\obj\Debug\Arbol 2.exe
+C:\Users\DELL CORE i5\source\repos\Arbol 2\Arbol 2\obj\Debug\Arbol 2.pdb

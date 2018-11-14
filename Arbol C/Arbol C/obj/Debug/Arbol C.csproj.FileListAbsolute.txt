@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\obj\Debug\Arbol C.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\obj\Debug\Arbol C.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\bin\Debug\Arbol C.exe.config
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\bin\Debug\Arbol C.exe
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\bin\Debug\Arbol C.pdb
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\obj\Debug\Arbol C.exe
+C:\Users\DELL CORE i5\Desktop\Arbol C\Arbol C\obj\Debug\Arbol C.pdb
